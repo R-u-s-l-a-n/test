@@ -1,9 +1,10 @@
 nftset=/xvideos.com/4#inet#fw4#vpn_domains
 nftset=/lostfilm.tv/4#inet#fw4#vpn_domains
-#nftset=/youtube.com/4#inet#fw4#vpn_domains
 nftset=/google.com/4#inet#fw4#vpn_domains
 nftset=/heavyfetish.com/4#inet#fw4#vpn_domains
 nftset=/rutracker.org/4#inet#fw4#vpn_domains
 nftset=/googleapis.com/4#inet#fw4#vpn_domains
 nftset=/openwrt.org/4#inet#fw4#vpn_domains
 nftset=/x.com/4#inet#fw4#vpn_domains
+nftset=/twitter.com/4#inet#fw4#vpn_domains
+nftset=/twittercommunity.com/4#inet#fw4#vpn_domains
