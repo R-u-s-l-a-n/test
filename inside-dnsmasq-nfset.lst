@@ -115,4 +115,5 @@ nftset=/cloudflarestatus.com/4#inet#fw4#vpn_domains
 nftset=/cloudflare-cn.com/4#inet#fw4#vpn_domains
 nftset=/dash.cloudflare.com/4#inet#fw4#vpn_domains
 nftset=/cloudflarewarp.com/4#inet#fw4#vpn_domains
+nftset=/debian.org/4#inet#fw4#vpn_domains
 
