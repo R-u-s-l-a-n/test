@@ -121,3 +121,4 @@ nftset=/analytics.linuxjournal.com/4#inet#fw4#vpn_domains
 nftset=/github.com/4#inet#fw4#vpn_domains
 nftset=/githubassets.com/4#inet#fw4#vpn_domains
 nftset=/images.ctfassets.net/4#inet#fw4#vpn_domains
+nftset=/kernel.org/4#inet#fw4#vpn_domains
